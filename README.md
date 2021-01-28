@@ -1,3 +1,3 @@
 ### L102
 
-A language for drawing pictures.
+A language for drawing with code.
