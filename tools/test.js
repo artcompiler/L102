@@ -6,6 +6,7 @@ import url from 'url';
 import readline from 'readline';
 const DATA_GATEWAY = 'https://gc.acx.ac/';
 // const TEST_GATEWAY = 'https://gc.acx.ac/';
+// const TEST_GATEWAY = 'https://gc.artcompiler.com/';
 const TEST_GATEWAY = 'http://localhost:3000/';
 const LANG_ID = 107;
 const TIMEOUT_DURATION = 30000;

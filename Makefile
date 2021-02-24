@@ -25,5 +25,6 @@ clean:
 	rm -rf node_modules
 	rm -rf dist
 	rm -rf build
+	rm -rf pub
 
 .PHONY: $(SUBPROJ) init clean test build

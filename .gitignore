@@ -1,7 +1,13 @@
+# NodeJS
 node_modules
-mathcore
+
+# Webpack
 build
 dist
+pub
+
+# Misc
+mathcore
 *~
 .#*
-#*
+.npm-install-done
